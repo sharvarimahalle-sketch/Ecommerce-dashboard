@@ -51,4 +51,5 @@ E-commerce businesses often struggle to understand:
 • Enabled stakeholders to make data-driven marketing and sales decisions
 
 # Dashboard
-https://github.com/sharvarimahalle-sketch/Ecommerce-dashboard/blob/main/Snapshot%20of%20dashboard.png
+<img width="929" height="517" alt="image" src="https://github.com/user-attachments/assets/7e32dde4-e925-43ed-b8d8-7cb42f49843a" />
+
