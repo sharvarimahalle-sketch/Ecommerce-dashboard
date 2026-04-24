@@ -52,6 +52,3 @@ E-commerce businesses often struggle to understand:
 
 # Dashboard
 https://github.com/sharvarimahalle-sketch/Ecommerce-dashboard/blob/main/Snapshot%20of%20dashboard.png
-
-
-# Dashboard
